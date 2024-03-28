@@ -647,7 +647,6 @@ func (o *LoginFlow) UnmarshalJSON(bytes []byte) (err error) {
 		"id",
 		"issued_at",
 		"request_url",
-		"state",
 		"type",
 		"ui",
 	}
